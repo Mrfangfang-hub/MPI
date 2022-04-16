@@ -212,6 +212,7 @@ int main(int argc, char* argv[])
 			ofs << temp[i] << " ";
 		}
 		cout << endl << length;
+		cout<<"123";
 	}
 	MPI_Finalize();
 }
